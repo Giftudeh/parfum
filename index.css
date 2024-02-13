@@ -1,9 +1,18 @@
 .container{
 width: 375px;
-background-color: white;
+background-color: cornsilk;
 height: 600px
 
 }
+
+.container1{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 10%;
+}
+
+
  img{
 margin: 10px;
 width: 360px;
@@ -39,10 +48,10 @@ padding: 20px;
 font-family: serif;
 }
 .item5{
-    font-size: xx-small;
-    font-weight: lighter;
+    font-size: large;
+    font-weight: bold;
     color: black;
-    margin-left: 19px;
+    margin-left: 7%;
     
 }
 .item6{
